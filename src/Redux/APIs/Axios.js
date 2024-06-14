@@ -1,6 +1,6 @@
 import axios from "axios";
 
 const Axios = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://backend-movie-9oro.onrender.com",
 });
 export default Axios;
