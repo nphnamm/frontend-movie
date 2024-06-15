@@ -26,11 +26,13 @@ A modern movie browsing application built with React, allows users to discover a
 
 ## Demo
 
-[Insert link to live demo if available]
+![image](https://github.com/nphnamm/frontend-movie/assets/80657434/ef40a547-9e1e-4553-b8ec-83b01fc64776)
+
 
 ## Screenshots
 
-[Include 2-3 screenshots showcasing the app's interface]
+![image](https://github.com/nphnamm/frontend-movie/assets/80657434/24e6370f-8ac0-4ce5-a020-368da0a206c9)
+![image](https://github.com/nphnamm/frontend-movie/assets/80657434/adeccd75-63b9-462a-bfc0-8ae4de713e9c)
 
 ## Technologies
 
