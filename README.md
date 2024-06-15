@@ -11,10 +11,7 @@ A modern movie browsing application built with React, allows users to discover a
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -36,10 +33,10 @@ A modern movie browsing application built with React, allows users to discover a
 
 ## Technologies
 
-- **Frontend:** React, React Router, CSS Modules/Styled Components
-- **State Management:** Redux (or Context API)
+- **Frontend:** React, React Router V6, Tailwind CSS.
+- **State Management:** Redux Toolkit
 - **API Interactions:** Axios
-- **UI Framework (optional):** Material-UI, Ant Design, etc.
+- **UI Framework:** Material-UI, Ant Design, etc.
 
 ## Getting Started
 
@@ -48,6 +45,5 @@ A modern movie browsing application built with React, allows users to discover a
 3. **Start the development server:** `npm start`
 4. **Open in your browser:** `http://localhost:3000` 
 
-## Project Structure
 
 
