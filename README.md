@@ -1,10 +1,8 @@
 # Frontend Movie App
 
-# Frontend Movie App
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A modern movie browsing application built with React, allowing users to discover and explore a vast collection of films.
+A modern movie browsing application built with React, allows users to discover and explore a vast collection of films.
 
 ## Table of Contents
 
